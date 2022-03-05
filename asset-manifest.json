@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/expense-tracker/static/css/main.e113ff9f.chunk.css",
+    "main.js": "/expense-tracker/static/js/main.01d8832d.chunk.js",
+    "main.js.map": "/expense-tracker/static/js/main.01d8832d.chunk.js.map",
+    "runtime-main.js": "/expense-tracker/static/js/runtime-main.2793e024.js",
+    "runtime-main.js.map": "/expense-tracker/static/js/runtime-main.2793e024.js.map",
+    "static/js/2.d2b3bf46.chunk.js": "/expense-tracker/static/js/2.d2b3bf46.chunk.js",
+    "static/js/2.d2b3bf46.chunk.js.map": "/expense-tracker/static/js/2.d2b3bf46.chunk.js.map",
+    "static/js/3.5f493f55.chunk.js": "/expense-tracker/static/js/3.5f493f55.chunk.js",
+    "static/js/3.5f493f55.chunk.js.map": "/expense-tracker/static/js/3.5f493f55.chunk.js.map",
+    "index.html": "/expense-tracker/index.html",
+    "static/css/main.e113ff9f.chunk.css.map": "/expense-tracker/static/css/main.e113ff9f.chunk.css.map",
+    "static/js/2.d2b3bf46.chunk.js.LICENSE.txt": "/expense-tracker/static/js/2.d2b3bf46.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/expense-tracker/static/media/NeueMachina-Ultrabold.07d4eef9.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2793e024.js",
+    "static/js/2.d2b3bf46.chunk.js",
+    "static/css/main.e113ff9f.chunk.css",
+    "static/js/main.01d8832d.chunk.js"
+  ]
+}
